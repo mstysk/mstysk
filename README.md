@@ -3,9 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 29 mins   ███████████████████████▒░   93.18 %
-netrw        9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Lua          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+TypeScript   2 hrs 16 mins   ███████████████████████▓░   95.20 %
+netrw        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->
